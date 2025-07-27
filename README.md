@@ -2,6 +2,13 @@
 
 Este é um projeto simples de ToDo List desenvolvido em PHP. Estou aprendendo PHP e criei este projeto baseado em um exercício prático do curso que estou fazendo. O objetivo é praticar o básico de PHP, manipulação de formulários e CRUD com banco de dados.
 
+<p float="left">
+<img src="./img/index3.png" alt="Tela inicial do app" height="200" />
+<img src="./img/create.png" alt="Tela de adicionar tarefa" height="200" />
+<img src="./img/edit.png" alt="Tela de adicionar tarefa" height="200" />
+
+</p>
+
 ## Funcionalidades
   - Adicionar tarefa.
   - Editar tarefa.
@@ -31,4 +38,4 @@ Este é um projeto simples de ToDo List desenvolvido em PHP. Estou aprendendo PH
 
 2. Importe o banco de dados no seu MySQL (ex: via phpMyAdmin).
 3. Coloque o projeto em um servidor local (ex: htdocs do XAMPP).
-4.Acesse via navegador.
+4. Acesse via navegador.
